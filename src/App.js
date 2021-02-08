@@ -12,7 +12,6 @@ function App() {
         <Route path='/inscription' component={Inscription}></Route>
       </Switch>
     </BrowserRouter>
-
   );
 }
 
